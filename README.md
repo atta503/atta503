@@ -20,6 +20,9 @@
 <img src="https://user-images.githubusercontent.com/21239660/83376648-33ecda80-a390-11ea-847c-f0edceead0d3.png" width="90">
 </p>
 
+<h1 align="center">Estatísticas📈​</h1>
+
+[![atta503's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atta503&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **atta503/atta503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
