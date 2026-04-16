@@ -17,7 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="90">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" width="90">
-<img src="https://computerlanguagesite.wordpress.com/wp-content/uploads/2022/09/asm.png" width="90">
+<img src="https://user-images.githubusercontent.com/21239660/83376648-33ecda80-a390-11ea-847c-f0edceead0d3.png" width="90">
 </p>
 
 <!--
