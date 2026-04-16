@@ -12,6 +12,7 @@
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/57196a3a-5799-4417-a383-84ff41156547" />
 </p>
 <h1 align="center">Irei aprender⏳</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="100">
 
 
 <!--
