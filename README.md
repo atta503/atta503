@@ -1,7 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:000000&text=Henrique%20Pena&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling&fontAlign=50"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=F7F7F7&background=000000CD&width=435&lines=atta.dev" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=F7F7F7&background=000000CD&width=600&lines=atta.dev&center=true&vCenter=true" 
+      alt="Typing SVG" 
+    />
+  </a>
+</div>
 
-printf ("Bom dia.\n");
+## printf ("Bom dia.\n");
 
 <!--
 **atta503/atta503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
