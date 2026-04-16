@@ -8,12 +8,17 @@
 
 <h1 align="center">Linguagens de programação💻​</h1>
 <p align="center"> 
- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d8c4f259-3f3f-4e07-915e-cbf5572f67c2" />
- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/57196a3a-5799-4417-a383-84ff41156547" />
+ <img src="https://github.com/user-attachments/assets/d8c4f259-3f3f-4e07-915e-cbf5572f67c2" width="90">
+<img src="https://github.com/user-attachments/assets/57196a3a-5799-4417-a383-84ff41156547" width="90">
+  <img src="https://play-lh.googleusercontent.com/podH2rtQOsOCbaeDbqZPFqNR1WYRG9fpgp-W2HrIEnGNcvrY4P0RA_EmXj2Wzm__bCs=s48-rw" width="90">
 </p>
 <h1 align="center">Irei aprender⏳</h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="100">
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="90">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" width="90">
+<img src="https://computerlanguagesite.wordpress.com/wp-content/uploads/2022/09/asm.png" width="90">
+</p>
 
 <!--
 **atta503/atta503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
