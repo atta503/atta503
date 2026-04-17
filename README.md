@@ -22,16 +22,17 @@
 
 <h1 align="center">Estatísticas📈​</h1>
 
-![](https://github-readme-stats-fast.vercel.app/api/streak?username=atta503&theme=tokyonight)<br><br>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=atta503&theme=highcontrast" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=atta503&show_icons=true&theme=highcontrast" />
+</p>
 
-
-![](https://github-readme-stats-fast.vercel.app/api?username=atta503&show_icons=true&theme=tokyonight)<br><br>
-
-
-
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atta503&layout=compact&theme=tokyonight)<br><br>
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atta503&layout=compact&theme=highcontrast" />
+</p>
 
 
 [![atta503's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atta503&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
