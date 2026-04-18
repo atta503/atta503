@@ -39,6 +39,12 @@
 
 [![atta503's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atta503&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+
+![gif de cobra](https://github.com/atta503/atta503/blob/output/github-snake-dark.svg)
+</div>
+
+
 
 <!--
 **atta503/atta503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
