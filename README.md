@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/Henrique-Moreira-Pena" target="_blank">
+<a href="https://www.linkedin.com/in/henrique-moreira-pena-b43005387/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%23007ACC?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
