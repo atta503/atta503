@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:seuemail@gmail.com" target="_blank">
+<a href="mailto:penahenrique3@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
