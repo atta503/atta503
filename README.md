@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:000000&text=Henrique%20Pena&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling&fontAlign=50"/>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&duration=4000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=448&lines=atta.dev;Projetos+de+eletr%C3%B4nica+e+automa%C3%A7%C3%A3o;T%C3%A9cnico+em+eletroeletr%C3%B4nica" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&duration=4000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=448&lines=atta.dev;Projetos+de+eletr%C3%B4nica+e+automa%C3%A7%C3%A3o;T%C3%A9cnico+em+eletroeletr%C3%B4nica-SENAI" alt="Typing SVG" /></a>
 </div>
 
 ## printf ("Bom dia.\n");
@@ -43,9 +43,13 @@
 
 ![gif de cobra](https://github.com/atta503/atta503/blob/output/github-snake-dark.svg)
 </div>
+<br><br>
 
-
-
+<h1 align="center">Visitas👁️</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atta503&color=000000&style=for-the-badge"
+       width="200"/>
+</p>
 <!--
 **atta503/atta503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
