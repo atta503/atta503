@@ -23,15 +23,15 @@
 <h1 align="center">Estatísticas📈​</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=atta503&theme=highcontrast" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=atta503&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=atta503&show_icons=true&theme=highcontrast" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=atta503&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atta503&layout=compact&theme=highcontrast" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atta503&layout=compact&theme=dark" />
 </p>
 <br><br>
 
