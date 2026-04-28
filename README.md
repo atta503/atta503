@@ -32,7 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="90">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="90">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" width="90">
-
+<img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" width="100">
 </p> <br><br>
 
 <h1 align="center">Estatísticas📈​</h1>
